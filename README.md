@@ -4,9 +4,19 @@ Excel  workbook to help planning a cross country flight. Fill the True Course (T
 # This Workbook has several tabs: 
 - one that explains the formulas to calculate the WCA
 - one that you fill (TC, Wd, Ws, TAS, VAR, DEV, Dist) and it calculates the above values (WCA, TH, CH, GS,ETE, ETA,...)
-- one that is the same as above, but that you can fold and use it in flight
+- one that you fill as well, same as above, but I moved the checkpoints names so that you can fold and use the relevant part it in flight (the part that shows the CH, Dist, GS, ETE, ETA, Fuel consumed, Fuel remainig
 - one that enables you to calculate and illustrates the cross-winds
 
-# To do
-- screenshots
-- examples
+![image](https://user-images.githubusercontent.com/33433229/152469497-25c7a614-06dc-48c0-a4a4-f1ffc709a249.png)
+
+# Screenshots
+
+Showing only the Nav Log (Foldable) here as the Nav Log (non foldable) is exactly the same in a different disposition (checkpoint names on the first column instead of in the middle-right)
+
+## Nav Log (Foldable) tab
+
+![image](https://user-images.githubusercontent.com/33433229/152469821-fae51d7c-2caf-4cd5-bfb3-11b193158669.png)
+
+## Cross Winds tab
+
+![image](https://user-images.githubusercontent.com/33433229/152469876-85fdf178-8aa5-43c9-8611-6fb3de9efe80.png)
