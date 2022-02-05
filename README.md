@@ -1,4 +1,4 @@
-# Aviation Navigation Log
+# Aviation Navigation Log - Instructions
 
 This is an Excel  workbook to help planning a cross country flight.
 
