@@ -1,6 +1,6 @@
 # Aviation Navigation Log - Instructions
 
-This is an Excel  workbook to help planning a cross country flight.
+This is an Excel  workbook to help planning a cross country flight. [Here's the download link for the Excel Workbook](https://github.com/SammyKrosoft/Aviation-Navigation-Log/raw/main/NAV%20Log%20Calculator%20-%20Flight%20Planner%20-%20E6B-like.xlsx)
 
 Fill the following with your VFR map, upper winds tables, POH and compass swing table:
 
