@@ -18,7 +18,7 @@ and the spreadsheet will calculate for you the Wind Correction Angle (**WCA**), 
 - **Formulas**: shows the trigonometric math formulas to calculate the WCA
 - **Nav Log (not foldable)**: you fill (TC, Wd, Ws, TAS, VAR, DEV, Dist) and it calculates the above values (WCA, TH, CH, GS,ETE, ETA,...). If you fold it, you won't be able to see the checkpoint names and the CH/GS/ETE/ETA/Fuel info
 - **Nav Log (Foldable)**: same as above, but I moved the checkpoints names column so that you can fold and use the relevant part of your Nav Log  in flight (the part that shows the CH, Dist, GS, ETE, ETA, Fuel consumed, Fuel remainig. Indeed the TC, Wd, Ws, TAS, VAR and DEV are of no use while flying through your navigation checkpoints; only the CH, GS, ETE, ETA and Fuel information are the metrics you check (and correct with the actual values) in flight.
-- **Cross Wind Calculator**: illustrates and calculate the cross-winds; Along with the calculation of the cross-wind/head-wind components, I put there 2 compass-style schemas: one with the plane and wind headings, and one with the runway orientation and wind heading
+- **Cross Wind Calculator**: illustrates and calculate the cross-winds (and the wind correction angle for illustration purposes); Along with the calculation of the cross-wind/head-wind components, I put there 2 compass-style schemas: one with the plane and wind headings, and one with the runway orientation and wind heading
 - **Mag Dev Compass Sample**: that's just a photo of how the compass swing table looks like in a plane.
 
 ![image](https://user-images.githubusercontent.com/33433229/152469497-25c7a614-06dc-48c0-a4a4-f1ffc709a249.png)
