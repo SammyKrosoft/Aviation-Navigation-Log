@@ -19,4 +19,5 @@ Showing only the Nav Log (Foldable) here as the Nav Log (non foldable) is exactl
 
 ## Cross Winds tab
 
-![image](https://user-images.githubusercontent.com/33433229/152469876-85fdf178-8aa5-43c9-8611-6fb3de9efe80.png)
+![image](https://user-images.githubusercontent.com/33433229/152625600-6da9d814-05f6-43f7-9094-035be891522c.png)
+
