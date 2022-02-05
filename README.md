@@ -13,9 +13,11 @@ Fill the following with your VFR map, upper winds tables, POH and compass swing 
 
 and the spreadsheet will calculate for you the Wind Correction Angle (**WCA**), True Heading (**TH**), Compass Heading (**CH**), Ground Speed (**GS**), Fuel consumption, Fuel remaining, Estimated Time Enroute (**ETE**) and Estimated Time of Arrival (**ETA**).
 
+> NOTE: the calculated cells are in orange (light and lighter so that it's easy on ink when printing), and by default the sheets are protected to avoid accidental deletion of the formulas for WCA/TH/CH/GS/Fuel/ETE/ETA - headers (TC/Wd/Ws/...) are also protected, and you can unprotect the sheets anytime to customize the logs, it's not password protected.
+
 # This Workbook has several tabs
 
-- **Formulas**: shows the trigonometric math formulas to calculate the WCA
+- **Formulas**: shows the trigonometric math formulas used in the Nav Logs tables to calculate the WCA
 - **Nav Log (not foldable)**: you fill (TC, Wd, Ws, TAS, VAR, DEV, Dist) and it calculates the above values (WCA, TH, CH, GS,ETE, ETA,...). If you fold it, you won't be able to see the checkpoint names and the CH/GS/ETE/ETA/Fuel info
 - **Nav Log (Foldable)**: same as above, but I moved the checkpoints names column so that you can fold and use the relevant part of your Nav Log  in flight (the part that shows the CH, Dist, GS, ETE, ETA, Fuel consumed, Fuel remainig. Indeed the TC, Wd, Ws, TAS, VAR and DEV are of no use while flying through your navigation checkpoints; only the CH, GS, ETE, ETA and Fuel information are the metrics you check (and correct with the actual values) in flight.
 - **Cross Wind Calculator**: illustrates and calculate the cross-winds (and the wind correction angle for illustration purposes); Along with the calculation of the cross-wind/head-wind components, I put there 2 compass-style schemas: one with the plane and wind headings, and one with the runway orientation and wind heading
