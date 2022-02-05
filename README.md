@@ -2,7 +2,7 @@
 
 This is an Excel  workbook to help planning a cross country flight.
 
-Fill the following:
+Fill the following with your VFR map, upper winds tables, POH and compass swing table:
 
 - True Course (**TC**) - with your protractor on your **VFR map**
 - Wind Direction (**Wd**) and Wind speed (**Ws**) - check the **Upper Winds map at your planned altitude** from [Transport Canada website](https://flightplanning.navcanada.ca/cgi-bin/CreePage.pl?Langue=anglais&NoSession=NS_Inconnu&Page=Fore-obs%2Ffd-text&TypeDoc=html)
