@@ -1,3 +1,10 @@
+# Introduction
+
+This repository has nothing to do with Exchange, O365 or Powershell. It's just about one of my passions: **aviation**. I got back into the sky after 20 years grounded, and I recently reviewed cross-country navigation preparation, so I decided to make an Excel tool to help out in the navigation preparation.
+
+As I'm a visual person, I also included compasses showing the wind direction and runway orientation (as well as a plane heading) that moves as you change the plane/wind/runway headings and calculate your WCA and the crosswind (and headwind) components - which are calculated using math trigonometry which I won't cover the details here.
+
+
 # Aviation Navigation Log - Instructions
 
 This is an Excel  workbook to help planning a cross country flight. [Here's the download link for the Excel Workbook](https://github.com/SammyKrosoft/Aviation-Navigation-Log/raw/main/NAV%20Log%20Calculator%20-%20Flight%20Planner%20-%20E6B-like.xlsx) _(right-click "Save link as" or click on the link to open on a browser supporting view only Excel files)_
