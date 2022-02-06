@@ -1,6 +1,6 @@
 # Introduction
 
-This repository has nothing to do with Exchange, O365 or Powershell. It's just about one of my passions: **aviation**. I got back into the sky after 20 years grounded, and I recently reviewed cross-country navigation, so I decided to make an Excel tool to help out in the navigation preparation.
+This repository has nothing to do with Microsoft Exchange, Microsoft O365 or Powershell. It's just about one of my passions: **aviation**. I got back into the sky after 20 years grounded, and I recently reviewed cross-country navigation, so I decided to make an Excel tool to help out in the navigation preparation.
 
 As I'm a visual person, I also included compasses showing the wind direction and runway orientation (as well as a plane heading) that moves as you change the plane/wind/runway headings and calculate your WCA and the crosswind (and headwind) components - which are calculated using math trigonometry which I won't cover the details here.
 
