@@ -9,7 +9,7 @@ As I'm a visual person, I also included compasses showing the wind direction and
 
 This is an Excel  workbook to help planning a cross country flight. 
 
-![image](https://user-images.githubusercontent.com/33433229/152825151-01f85fe7-db73-4993-9a06-041fbf9f8397.png)
+![image](https://user-images.githubusercontent.com/33433229/152830504-c5bbf66d-0618-4933-88dc-6686c52b8400.png)
 
 [Here's the download link for this Excel Workbook](https://github.com/SammyKrosoft/Aviation-Navigation-Log/raw/main/NAV%20Log%20Calculator%20-%20Flight%20Planner%20-%20E6B-like.xlsx) *(right-click "Save link as" or click on the link to open on a browser supporting view only Excel files)*
 
@@ -18,9 +18,9 @@ Fill the following with your VFR map, upper winds tables, POH and compass swing 
 1. True Course (**TC**) - with your protractor on your **VFR map**
 
 2. Altitude (**ALT**) - it's not used for calculations, just to remember your planned altitude. 
-> Note: Remember the rule above 3000 FT ASL
-> - 0° - 179° => VFR : odd + 500ft (3500, 5500, 7500,...)
-> - 180° - 359° => VFR : even + 500ft (4500, 6500, 8500, ...)
+> Note: Remember the cruising altitude rule above 3000 FT ASL
+> - Right or East half - **0° - 179°** => VFR : **odd + 500ft** (3500, 5500, 7500,...)
+> - Left or West half - **180° - 359°** => VFR : **even + 500ft** (4500, 6500, 8500, ...)
 > 
 > These are the magnetic course (TC + VAR) - therefore I will need to put the VAR column closer to TC, and remove the TH (True Heading) column and replace it with an MC (Magnetic course) column before the WCA (Wind Correctopn Angle) => then the MH (Magnetic Heading) will be MC + WCA... but that will be for the V2 of the workbook !
 
