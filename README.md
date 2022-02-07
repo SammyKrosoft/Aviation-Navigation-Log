@@ -24,15 +24,17 @@ Fill the following with your VFR map, upper winds tables, POH and compass swing 
 > 
 > These are the magnetic course (TC + VAR) - therefore I will need to put the VAR column closer to TC, and remove the TH (True Heading) column and replace it with an MC (Magnetic course) column before the WCA (Wind Correctopn Angle) => then the MH (Magnetic Heading) will be MC + WCA... but that will be for the V2 of the workbook !
 
-1. Wind Direction (**Wd**) and Wind speed (**Ws**) - check the **Upper Winds map at your planned altitude**, for example from [Transport Canada website](https://flightplanning.navcanada.ca/cgi-bin/CreePage.pl?Langue=anglais&NoSession=NS_Inconnu&Page=Fore-obs%2Ffd-text&TypeDoc=html) for Canada
+3. Wind Direction (**Wd**) and Wind speed (**Ws**) - check the **Upper Winds map at your planned altitude**, for example from [Transport Canada website](https://flightplanning.navcanada.ca/cgi-bin/CreePage.pl?Langue=anglais&NoSession=NS_Inconnu&Page=Fore-obs%2Ffd-text&TypeDoc=html) for Canada
 
-- True Air Speed (**TAS**) - from your **Pilot Operating Handbook** (**POH**)
+4. Temperature (**TEMP**) - it's also not used for calculations, just as a reference.
 
-- Magnetic Variation (**VAR**) - from your **VFR map**
+5. True Air Speed (**TAS**) - from your **Pilot Operating Handbook** (**POH**)
 
-- Compass Magnetic Deviation (**DEV**) - **compass swing table** from your plane (see the photo on the **Mag Dev Compass Sample** tab for an example) - it's updated every 12 months
+6. Magnetic Variation (**VAR**) - from your **VFR map**
 
-- Distance (**DIST**) - with your plotter on your **VFR map**
+7. Compass Magnetic Deviation (**DEV**) - **compass swing table** from your plane (see the photo on the **Mag Dev Compass Sample** tab for an example) - it's updated every 12 months
+
+8. Distance (**DIST**) - with your plotter on your **VFR map**
 
 and the spreadsheet will calculate for you the Wind Correction Angle (**WCA**), True Heading (**TH**), Compass Heading (**CH**), Ground Speed (**GS**), Fuel consumption, Fuel remaining, Estimated Time Enroute (**ETE**) and Estimated Time of Arrival (**ETA**).
 
