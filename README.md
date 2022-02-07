@@ -22,7 +22,7 @@ Fill the following with your VFR map, upper winds tables, POH and compass swing 
 > - Right or East half - **0° - 179°** => VFR : **odd + 500ft** (3500, 5500, 7500,...)
 > - Left or West half - **180° - 359°** => VFR : **even + 500ft** (4500, 6500, 8500, ...)
 > 
-> These are the magnetic course (TC + VAR) - therefore I will need to put the VAR column closer to TC, and remove the TH (True Heading) column and replace it with an MC (Magnetic course) column before the WCA (Wind Correctopn Angle) => then the MH (Magnetic Heading) will be MC + WCA... but that will be for the V2 of the workbook !
+> In the *Canadian Southern Domestic Airspace*, these are the magnetic course (TC + VAR), and in the *Northern Domestic Airspace* these are the True Course (see [CAR 602.34](https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/page-57.html#h-993895)) - therefore I will need to put the VAR column closer to TC, and remove the TH (True Heading) column and replace it with an MC (Magnetic course) column before the WCA (Wind Correctopn Angle) => then the MH (Magnetic Heading) will be MC + WCA... but that will be for the V2 of the workbook !
 
 3. Wind Direction (**Wd**) and Wind speed (**Ws**) - check the **Upper Winds map at your planned altitude**, for example from [Transport Canada website](https://flightplanning.navcanada.ca/cgi-bin/CreePage.pl?Langue=anglais&NoSession=NS_Inconnu&Page=Fore-obs%2Ffd-text&TypeDoc=html) for Canada
 
