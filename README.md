@@ -9,7 +9,7 @@ As I'm a visual person, I also included compasses showing the wind direction and
 
 This is an Excel  workbook to help planning a cross country flight. 
 
-![image](https://user-images.githubusercontent.com/33433229/152830504-c5bbf66d-0618-4933-88dc-6686c52b8400.png)
+![image](https://user-images.githubusercontent.com/33433229/152830604-adb59bd7-9828-40b9-9ce7-444ffeb24b5c.png)
 
 [Here's the download link for this Excel Workbook](https://github.com/SammyKrosoft/Aviation-Navigation-Log/raw/main/NAV%20Log%20Calculator%20-%20Flight%20Planner%20-%20E6B-like.xlsx) *(right-click "Save link as" or click on the link to open on a browser supporting view only Excel files)*
 
