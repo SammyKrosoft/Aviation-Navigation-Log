@@ -7,7 +7,11 @@ As I'm a visual person, I also included compasses showing the wind direction and
 
 # Aviation Navigation Log - Instructions
 
-This is an Excel  workbook to help planning a cross country flight. [Here's the download link for this Excel Workbook](https://github.com/SammyKrosoft/Aviation-Navigation-Log/raw/main/NAV%20Log%20Calculator%20-%20Flight%20Planner%20-%20E6B-like.xlsx) *(right-click "Save link as" or click on the link to open on a browser supporting view only Excel files)*
+This is an Excel  workbook to help planning a cross country flight. 
+
+![image](https://user-images.githubusercontent.com/33433229/152825151-01f85fe7-db73-4993-9a06-041fbf9f8397.png)
+
+[Here's the download link for this Excel Workbook](https://github.com/SammyKrosoft/Aviation-Navigation-Log/raw/main/NAV%20Log%20Calculator%20-%20Flight%20Planner%20-%20E6B-like.xlsx) *(right-click "Save link as" or click on the link to open on a browser supporting view only Excel files)*
 
 Fill the following with your VFR map, upper winds tables, POH and compass swing table:
 
