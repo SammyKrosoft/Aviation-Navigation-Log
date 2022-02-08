@@ -61,5 +61,3 @@ Showing only the **Nav Log (Foldable)** here as the **Nav Log (non foldable)** i
 ## Cross Winds tab
 
 ![image](https://user-images.githubusercontent.com/33433229/152667589-9dd85eee-d11a-4fba-8ded-6186a3859be3.png)
-
-
