@@ -26,6 +26,7 @@ Fill the following with your VFR map, upper winds tables, POH and compass swing 
 
 3. Wind Direction (**Wd**) and Wind speed (**Ws**) - check the **Upper Winds map at your planned altitude**, for example from [Transport Canada website](https://flightplanning.navcanada.ca/cgi-bin/CreePage.pl?Langue=anglais&NoSession=NS_Inconnu&Page=Fore-obs%2Ffd-text&TypeDoc=html) for Canada
 
+
 4. Temperature (**TEMP**) - it's also not used for calculations, just as a reference.
 
 5. True Air Speed (**TAS**) - from your **Pilot Operating Handbook** (**POH**)
@@ -61,3 +62,9 @@ Showing only the **Nav Log (Foldable)** here as the **Nav Log (non foldable)** i
 ## Cross Winds tab
 
 ![image](https://user-images.githubusercontent.com/33433229/152667589-9dd85eee-d11a-4fba-8ded-6186a3859be3.png)
+
+# Nav Log - vNext
+
+For the Nav Log under the draft/vnext folder, it's the same as the main one above, I just added the Magnetic Course column because in Canada SDA (Southern Domestic Airspace) and in the US the VFR cruise altitude is determined by the Magnetic Course remove, then it's easier to check and set an altitude regarding this (and the terrain physics and the airspace classes of course), and I removed the True Heading column because we obtain directly the Magnetic Heading from the Magnetic Course to which we add the WCA (Wind Correction Angle).
+
+![image](https://user-images.githubusercontent.com/33433229/152913350-272334cf-496c-42e5-b043-9d5b5f416cca.png)
