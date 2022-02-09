@@ -65,6 +65,6 @@ Showing only the **Nav Log (Foldable)** here as the **Nav Log (non foldable)** i
 
 # Nav Log - vNext
 
-For the Nav Log under the draft/vnext folder, it's the same as the main one above, I just added the Magnetic Course column because in Canada SDA (Southern Domestic Airspace) and in the US the VFR cruise altitude is determined by the Magnetic Course remove, then it's easier to check and set an altitude regarding this (and the terrain physics and the airspace classes of course), and I removed the True Heading column because we obtain directly the Magnetic Heading from the Magnetic Course to which we add the WCA (Wind Correction Angle).
+For the Nav Log under the draft/vnext folder, it's the same as the main one above, I just added the Magnetic Course column because in Canada SDA (Southern Domestic Airspace) and in the US the VFR cruise altitude is determined by the Magnetic Course, then it's easier to check and set an altitude just after the MC calculation (and the terrain physics and the airspace classes of course), and I removed the True Heading column because with the MC calculated, we obtain directly the Magnetic Heading from the Magnetic Course to which we add the WCA (Wind Correction Angle) (MH = MC + WCA).
 
 ![image](https://user-images.githubusercontent.com/33433229/152913350-272334cf-496c-42e5-b043-9d5b5f416cca.png)
