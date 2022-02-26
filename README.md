@@ -18,11 +18,11 @@ Fill the following with your VFR map, upper winds tables, POH and compass swing 
 1. True Course (**TC**) - with your protractor on your **VFR map**
 
 2. Altitude (**ALT**) - it's not used for calculations, just to remember your planned altitude. 
-> Note: Remember the cruising altitude rule above 3000 FT ASL
+> _**Note**_: Remember the cruising altitude rule above 3000 FT ASL
 > - Right or East half - **0° - 179°** => VFR : **odd + 500ft** (3500, 5500, 7500,...)
 > - Left or West half - **180° - 359°** => VFR : **even + 500ft** (4500, 6500, 8500, ...)
 > 
-> In the *Canadian Southern Domestic Airspace*, these are the magnetic course (TC + VAR), and in the *Northern Domestic Airspace* these are the True Course (see [CAR 602.34](https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/page-57.html#h-993895)) - therefore I will need to put the VAR column closer to TC, and remove the TH (True Heading) column and replace it with an MC (Magnetic course) column before the WCA (Wind Correctopn Angle) => then the MH (Magnetic Heading) will be MC + WCA... but that will be for the V2 of the workbook !
+> In the *Canadian Southern Domestic Airspace* (*SDA*), these are the **Magnetic Course** (**TC + VAR**), and in the *Northern Domestic Airspace* (*NDA*) these are the True Course (see [CAR 602.34](https://laws-lois.justice.gc.ca/eng/regulations/sor-96-433/page-57.html#h-993895)) - therefore I will need to put the VAR column closer to TC, and remove the TH (True Heading) column and replace it with an **MC** (**Magnetic course**) column before the WCA (Wind Correctopn Angle) => then the MH (Magnetic Heading) will be MC + WCA... but that will be for the V2 of the workbook !
 
 3. Wind Direction (**Wd**) and Wind speed (**Ws**) - check the **Upper Winds map at your planned altitude**, for example from [Transport Canada website](https://flightplanning.navcanada.ca/cgi-bin/CreePage.pl?Langue=anglais&NoSession=NS_Inconnu&Page=Fore-obs%2Ffd-text&TypeDoc=html) for Canada
 
@@ -65,6 +65,6 @@ Showing only the **Nav Log (Foldable)** here as the **Nav Log (non foldable)** i
 
 # Nav Log - vNext
 
-For the Nav Log under the draft/vnext folder, it's the same as the main one above, I just added the Magnetic Course column because in Canada SDA (Southern Domestic Airspace) and in the US the VFR cruise altitude is determined by the Magnetic Course, then it's easier to check and set an altitude just after the MC calculation (and the terrain physics and the airspace classes of course), and I removed the True Heading column because with the MC calculated, we obtain directly the Magnetic Heading from the Magnetic Course to which we add the WCA (Wind Correction Angle) (MH = MC + WCA).
+For the Nav Log under the *VNext - TC and MC first* folder, it's the same as the main one above, I just added the **Magnetic Course** column because in Canada SDA (Southern Domestic Airspace) and in the US the **VFR cruise altitude** is determined by the **Magnetic Course**, then it's easier to check and set an altitude just after the **MC** calculation (and the terrain physics and the airspace classes of course), and I **removed the True Heading** column because with the **MC** calculated, we obtain directly the **Magnetic Heading** aka **MH** from the **Magnetic Course** aka **MC** to which we add the **WCA** (**Wind Correction Angle**) (**MH = MC + WCA**).
 
 ![image](https://user-images.githubusercontent.com/33433229/152913350-272334cf-496c-42e5-b043-9d5b5f416cca.png)
