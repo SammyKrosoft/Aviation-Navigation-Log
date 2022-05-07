@@ -65,6 +65,8 @@ This tab illustrates the effect of the wind on the plane - upper part is to show
 
 I have 2 versions here with just cosmetic differences; in the Log v1.5, I used a compass with full regular heading numbers, and in Log v1.6 I used an "inverted" compass as it would appear on a runway marking.
 
+Forgot to add that in v1.6 I added the magnetic wind direction (you need to put in you magnetic deviation then) which is important for the cross wind component calculation relative to your runway (again, as runway is always relative to the magnetic north)
+
 - V1.5 Log Cross wind tab:
 
 ![image](https://user-images.githubusercontent.com/33433229/152667589-9dd85eee-d11a-4fba-8ded-6186a3859be3.png)
