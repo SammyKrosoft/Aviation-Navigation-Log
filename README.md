@@ -37,7 +37,7 @@ Fill the following with your VFR map, upper winds tables, POH and compass swing 
 
 8. Distance (**DIST**) - with your plotter on your **VFR map**
 
-and the spreadsheet will calculate for you the Wind Correction Angle (**WCA**), True Heading (**TH**), Compass Heading (**CH**), Ground Speed (**GS**), Fuel consumption, Fuel remaining, Estimated Time Enroute (**ETE**) and Estimated Time of Arrival (**ETA**).
+and the spreadsheet will calculate for you the Wind Correction Angle (**WCA**), True Heading (**TH**), Magnetic Heading (**MH**), Compass Heading (**CH**), Ground Speed (**GS**), Fuel consumption, Fuel remaining, Estimated Time Enroute (**ETE**) and Estimated Time of Arrival (**ETA**).
 
 > NOTE: the calculated cells are in orange (light and lighter so that it's easy on ink when printing), and by default the sheets are protected to avoid accidental deletion of the formulas for WCA/TH/CH/GS/Fuel/ETE/ETA - headers (TC/Wd/Ws/...) are also protected, and you can unprotect the sheets anytime to customize the logs, it's not password protected.
 
