@@ -7,6 +7,8 @@ As I'm a visual person, I also included compasses showing the wind direction and
 
 # Aviation Navigation Log - Instructions
 
+> NOTE: 8 July 2023 I updated the margins in the Excel calculator as newer Excel versions made it get out of the page
+
 This is an Excel  workbook to help planning a cross country flight. 
 
 ![image](https://user-images.githubusercontent.com/33433229/152830604-adb59bd7-9828-40b9-9ce7-444ffeb24b5c.png)
