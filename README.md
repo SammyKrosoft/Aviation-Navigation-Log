@@ -65,9 +65,9 @@ Showing only the **Nav Log (Foldable)** here as the **Nav Log (non foldable)** i
 
 This tab illustrates the effect of the wind on the plane - upper part is to show the True Course and the wind direction (always True wind heading given in TAF/METAR) and calculating the WCA, and lower part to show the actual Runway (remember Runway is always oriented relative to the magnetic north) and the magnetic wind heading, with the corresponding calculated cross wind (and head wind). NOTE: if the Head Wind has a negative value that means you have a tailwind. That means the opposite runway is the active one.
 
-I have 2 versions here with just cosmetic differences; in the Log v1.5, I used a compass with full regular heading numbers, and in Log v1.6 I used an "inverted" compass as it would appear on a runway marking.
+I have 2 versions here with just cosmetic differences, and v1.6 includes magnetic deviation for the wind direction; in v1.5, I used a compass with full regular heading numbers, and in Log v1.6 I used an "inverted" compass to match runway markings.
 
-Forgot to add that in v1.6 I added the magnetic wind direction (you need to put in you magnetic deviation then) which is important for the cross wind component calculation relative to your runway (again, as runway is always relative to the magnetic north)
+About the magnetic wind direction in v1.6: you need to put in you magnetic deviation, which is important for the cross wind component calculation relative to your runway: runway is always maked according to the magnetic north.
 
 - V1.5 Log Cross wind tab:
 
