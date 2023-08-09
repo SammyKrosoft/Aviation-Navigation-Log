@@ -72,7 +72,7 @@ https://www.aopa.org/training-and-safety/students/solo/special/the-fuel-air-mixt
 
 - High manifold pressure : Mixture **Full rich**
 - Take off / Landing at  any elevation < 5000 ft density altitude + climbing up to 5000ft, Mixture **full righ**
-- High altitude airports (> 5000 ft density altitude), lean mixture for max p ower. Over rich = loss of power.
+- High altitude airports (> 5000 ft density altitude), **lean mixture for max power**. Over rich = loss of power.
 
 > "rich best power"
 
@@ -118,6 +118,9 @@ Too rich mixture makes engine running rough, cause vibrations, bad for engine mo
 
 - one time on RUNUP
 - one time before flight
-- one time on taking of check (Flaps - Mixture - gauges)
+- one time on taking off check (Flaps - Mixture - gauges)
 
-Did not find :(
+We need to check/set several the mixture especially when taking off on airport above density altitude of 3000ft:
+- Mixture lean for best performance (**rich best power**)
+- Just before taking off : mixture lean at **rich best power**
+- while airborne - Mixture Full Rich
