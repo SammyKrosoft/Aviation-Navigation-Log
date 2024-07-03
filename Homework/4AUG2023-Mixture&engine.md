@@ -6,7 +6,7 @@ Flight Training Homework - Eileen Carter / Sam - 4 Aug 2023
  - Prevent lead building up on spark plugs when you are taxiing around (lead builds around if you leave engine below 1000rpm)
 
 
-# MIXTURE CONTROL
+# Mixture Control
 
 > NOTE: fuel need air (oxygen) to burn. No air, no fire. The mix of fuel+air is lighten up in the pistons that make the propeller rotate.
 
@@ -24,11 +24,11 @@ Rich mixture = large amount of excess fuel is unburnt = cooler engine = good for
 Lean mixture = less amount of unburnt excess fuel = hoter engine.
 Ideal mixture = complete burning of air/fuel mixture.
 
-## MIXTURE CONTROL IN GENERAL
+## Mixture in general
 
 - Mixture control has the greatest effect on engine operating temperatures.
 
-## HOW TO SET MIXTURE CONTROL IN FLIGHT
+## How to Set Mixture Control In Flight
 
 - Monitor the tachometer closely while moving mixture from rich to lean. 
 
@@ -40,7 +40,7 @@ Ideal mixture = complete burning of air/fuel mixture.
 
 
 
-## FULL RICH ON TAKE OFF
+## Full Rich Take Off
 At full takeoff power the aircraft engine requires a full rich mixture. The term "full rich" in this particular application describes a mixture as rich as possible without a substantial loss of power. Such a mixture does result in the loss of some power; however, the loss is slight and the added fuel flow greatly aids internal engine cooling at a time when the engine needs it most. Thus the power/cooling tradeoff is a good one.
 https://www.aopa.org/training-and-safety/students/solo/special/the-fuel-air-mixture
 
